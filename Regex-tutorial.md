@@ -30,4 +30,4 @@ Looking at the characters closely, you can see there is three sets of brackets. 
 
 
 ### Author
-Jayad Arshad https://github.com/Jayad619/Regex-Tutorial
+Jayad Arshad https://github.com/Jayad619
